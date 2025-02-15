@@ -12,11 +12,12 @@ https://ab21.pro/movie/231889359/528406716/285827.mp4
 https://ab21.pro/movie/231889359/528406716/263684.mp4
 #EXTINF:105708 tvg-id="" tvg-name="O Exorcista: O Devoto (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJtfth9oaDWx1PwzT0vGKNXwjKz.jpg" group-title=" LANÇAMENTOS 2023",O Exorcista: O Devoto (2023)
 https://ab21.pro/movie/231889359/528406716/306747.mp4
-#EXTINF:0130 tvg-name="Os Piratas da Somalia (2017)" tvg-logo="https://image.tmdb.org/t/p/w500/11VlmlsgLXihYqwfTrhEalg8d7v.jpg" group-title="âœ… DRAMA",Os Piratas da Somalia (2017)
+#EXTINF:-1 tvg-name="Os Piratas da Somalia (2017)" tvg-logo="https://image.tmdb.org/t/p/w500/11VlmlsgLXihYqwfTrhEalg8d7v.jpg" group-title="âœ… DRAMA",Os Piratas da Somalia (2017)
 http://btvplay.live:80/movie/498989514/132701893/1145839.mp4
 #EXTINF:-1 tvg-id="" tvg-name="BEM VINDO A SELVA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fJYDJDv3xVs6VbjHHoARjVJf0o.jpg" group-title="COMEDIA", BEM VINDO A SELVA
 http://cdnrede.com:80/movie/eduardoferreira48/7727187/252680.mp4
-
+#EXTINF:-1 tvg-id="" tvg-name="BLACK OPS OPERACAO SECRETA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wNPg6RIzY92miYevoIUYTFoJqBA.jpg" group-title="ACAO/AVENTURA", BLACK OPS OPERACAO SECRETA
+http://cdnrede.com:80/movie/eduardoferreira48/7727187/252681.mp4
 
 # Séries
 #EXTINF:-1 tvg-id="" tvg-name="Abolição S01 E01" tvg-logo="https://br.web.img2.acsta.net/c_216_288/pictures/14/12/11/22/22/082732.jpg" group-title="Serie ∤ Reality E Documentário",Abolição S01 E01
