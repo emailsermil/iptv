@@ -10,7 +10,7 @@ http://exemplo.com/stream/sbt
 https://ab21.pro/movie/231889359/528406716/285827.mp4
 #EXTINF:-1 tvg-id="" tvg-name="À Meia Noite Levarei Sua Alma (1964)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/feLS7D7rTb0BqqygSVxAmf9wThp.jpg" group-title="CLASSICOS",À Meia Noite Levarei Sua Alma (1964)
 https://ab21.pro/movie/231889359/528406716/263684.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Exorcista: O Devoto (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJtfth9oaDWx1PwzT0vGKNXwjKz.jpg" group-title=" LANÇAMENTOS 2023",O Exorcista: O Devoto (2023)
+#EXTINF:105708 tvg-id="" tvg-name="O Exorcista: O Devoto (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJtfth9oaDWx1PwzT0vGKNXwjKz.jpg" group-title=" LANÇAMENTOS 2023",O Exorcista: O Devoto (2023)
 https://ab21.pro/movie/231889359/528406716/306747.mp4
 
 
