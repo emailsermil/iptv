@@ -4,8 +4,6 @@
 http://exemplo.com/stream/globo
 #EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT" tvg-logo="https://exemplo.com/logo-sbt.png" group-title="Canais de TV", SBT
 http://exemplo.com/stream/sbt
-#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO" tvg-logo="https://exemplo.com/logo-hbo.png" group-title="Canais de TV", HBO
-http://exemplo.com/stream/hbo
 
 # Filmes
 #EXTINF:-1 tvg-id="Filme1" tvg-name="O Poderoso Chefão" tvg-logo="https://exemplo.com/logo-poderoso-chefao.png" group-title="Filmes", O Poderoso Chefão (1972)
@@ -18,5 +16,3 @@ http://exemplo.com/stream/interestelar
 http://exemplo.com/stream/breaking-bad-s01e01
 #EXTINF:-1 tvg-id="Serie1" tvg-name="Breaking Bad" tvg-logo="https://exemplo.com/logo-breaking-bad.png" group-title="Séries", Breaking Bad - Temporada 1 Episódio 2
 http://exemplo.com/stream/breaking-bad-s01e02
-#EXTINF:-1 tvg-id="Serie2" tvg-name="Game of Thrones" tvg-logo="https://exemplo.com/logo-game-of-thrones.png" group-title="Séries", Game of Thrones - Temporada 1 Episódio 1
-http://exemplo.com/stream/game-of-thrones-s01e01
