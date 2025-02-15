@@ -19,12 +19,12 @@ http://cdnrede.com:80/movie/eduardoferreira48/7727187/252680.mp4
 #EXTINF:-1 tvg-id="" tvg-name="BLACK OPS OPERACAO SECRETA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wNPg6RIzY92miYevoIUYTFoJqBA.jpg" group-title="ACAO/AVENTURA", BLACK OPS OPERACAO SECRETA
 http://cdnrede.com:80/movie/eduardoferreira48/7727187/252681.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", BLACK OPS OPERACAO SECRETA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", SECRETA
 http://cdnrede.com:80/movie/eduardoferreira48/7727187/252681.mp4
 
 
-#EXTINF:10500 tvg-id="" tvg-name="" tvg-logo=""  group-title="", O Poderoso Chefão 
-http://exemplo.com/stream/poderoso-chefao
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="", O Poderoso Chefão 
+http://cdnrede.com:80/movie/eduardoferreira48/7727187/252681.mp4
 
 
 # Séries
