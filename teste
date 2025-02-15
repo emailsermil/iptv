@@ -1,25 +1,21 @@
 #EXTM3U
 
-# Filme 1 - A Night of the Living Dead (Domínio Público)
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/NightoftheLivingDead.jpg" group-title="Terror", A Night of the Living Dead
+#EXTINF:-1 tvg-id="1" tvg-name="A Night of the Living Dead" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/NightoftheLivingDead.jpg" group-title="Filmes - Terror", A Night of the Living Dead
 #Duração: 96 min
 #Descrição: Clássico do terror sobre um apocalipse zumbi.
 http://media.w3.org/2010/05/sintel/trailer.mp4
 
-# Filme 2 - Sintel (Open Movie Blender Foundation)
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Sintel_poster.jpg" group-title="Animação", Sintel
+#EXTINF:-1 tvg-id="2" tvg-name="Sintel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Sintel_poster.jpg" group-title="Filmes - Animação", Sintel
 #Duração: 15 min
 #Descrição: Curta de animação sobre a busca de uma garota por seu dragão de estimação.
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4
 
-# Filme 3 - Big Buck Bunny (Open Movie Blender Foundation)
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Big_buck_bunny_poster_big.jpg/800px-Big_buck_bunny_poster_big.jpg" group-title="Animação", Big Buck Bunny
+#EXTINF:-1 tvg-id="3" tvg-name="Big Buck Bunny" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Big_buck_bunny_poster_big.jpg/800px-Big_buck_bunny_poster_big.jpg" group-title="Filmes - Animação", Big Buck Bunny
 #Duração: 10 min
 #Descrição: História divertida de um coelho gigante enfrentando esquilos travessos.
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
 
-# Filme 4 - Tears of Steel (Open Movie Blender Foundation)
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Tears_of_Steel_poster.jpg" group-title="Ficção Científica", Tears of Steel
+#EXTINF:-1 tvg-id="4" tvg-name="Tears of Steel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Tears_of_Steel_poster.jpg" group-title="Filmes - Ficção Científica", Tears of Steel
 #Duração: 12 min
 #Descrição: Curta sci-fi sobre um experimento futurista e suas consequências.
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4
