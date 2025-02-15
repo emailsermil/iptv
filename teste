@@ -1,28 +1,28 @@
 #EXTM3U
 
 # Categoria: TV AO VIVO
-#EXTINF:-1 tvg-id="101" tvg-name="Canal de Notícias" tvg-logo="https://example.com/news_logo.jpg" group-title="TV AO VIVO", Canal de Notícias
+#EXTINF:-1 tvg-id="101" tvg-name="Canal de Notícias" tvg-logo="https://example.com/news_logo.jpg" group-title="TV", Canal de Notícias
 http://example.com/stream/news.m3u8
 
-#EXTINF:-1 tvg-id="102" tvg-name="Esportes 24h" tvg-logo="https://example.com/sports_logo.jpg" group-title="TV AO VIVO", Esportes 24h
+#EXTINF:-1 tvg-id="102" tvg-name="Esportes 24h" tvg-logo="https://example.com/sports_logo.jpg" group-title="TV", Esportes 24h
 http://example.com/stream/sports.m3u8
 
-# Categoria: FILMES
-#EXTINF:-1 tvg-id="201" tvg-name="A Night of the Living Dead" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/NightoftheLivingDead.jpg" group-title="FILMES", A Night of the Living Dead
+# Categoria: Filme
+#EXTINF:-1 tvg-id="201" tvg-name="A Night of the Living Dead" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/NightoftheLivingDead.jpg" group-title="Filme", A Night of the Living Dead
 http://media.w3.org/2010/05/sintel/trailer.mp4
 
-#EXTINF:-1 tvg-id="202" tvg-name="Sintel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Sintel_poster.jpg" group-title="FILMES", Sintel
+#EXTINF:-1 tvg-id="202" tvg-name="Sintel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Sintel_poster.jpg" group-title="Filme", Sintel
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4
 
-#EXTINF:-1 tvg-id="203" tvg-name="Big Buck Bunny" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Big_buck_bunny_poster_big.jpg/800px-Big_buck_bunny_poster_big.jpg" group-title="FILMES", Big Buck Bunny
+#EXTINF:-1 tvg-id="203" tvg-name="Big Buck Bunny" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Big_buck_bunny_poster_big.jpg/800px-Big_buck_bunny_poster_big.jpg" group-title="Filme", Big Buck Bunny
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
 
-#EXTINF:-1 tvg-id="204" tvg-name="Tears of Steel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Tears_of_Steel_poster.jpg" group-title="FILMES", Tears of Steel
+#EXTINF:-1 tvg-id="204" tvg-name="Tears of Steel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Tears_of_Steel_poster.jpg" group-title="Filme", Tears of Steel
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4
 
-# Categoria: SÉRIES
-#EXTINF:-1 tvg-id="301" tvg-name="Série Exemplo - Episódio 1" tvg-logo="https://example.com/series_logo.jpg" group-title="SÉRIES", Série Exemplo - Episódio 1
+# Categoria: Série
+#EXTINF:-1 tvg-id="301" tvg-name="Série Exemplo - Episódio 1" tvg-logo="https://example.com/series_logo.jpg" group-title="Série", Série Exemplo - Episódio 1
 http://example.com/stream/series_ep1.m3u8
 
-#EXTINF:-1 tvg-id="302" tvg-name="Série Exemplo - Episódio 2" tvg-logo="https://example.com/series_logo.jpg" group-title="SÉRIES", Série Exemplo - Episódio 2
+#EXTINF:-1 tvg-id="302" tvg-name="Série Exemplo - Episódio 2" tvg-logo="https://example.com/series_logo.jpg" group-title="Série", Série Exemplo - Episódio 2
 http://example.com/stream/series_ep2.m3u8
