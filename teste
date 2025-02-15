@@ -6,17 +6,13 @@ http://exemplo.com/stream/globo
 http://exemplo.com/stream/sbt
 
 # Filmes
-#EXTINF:-1 tvg-id="Filme1" tvg-name="O Poderoso Chefão" tvg-logo="https://exemplo.com/logo-poderoso-chefao.png" group-title="Filmes", O Poderoso Chefão (1972)
-http://exemplo.com/stream/poderoso-chefao
-#EXTINF:-1 tvg-id="Filme2" tvg-name="Interestelar" tvg-logo="https://exemplo.com/logo-interestelar.png" group-title="Filmes", Interestelar (2014)
-http://exemplo.com/stream/interestelar
+#EXTINF:-1 tvg-id="" tvg-name="À Espera de um Milagre (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/14hEqW67IiHlKpzKMLUXyktzZIV.jpg" group-title="CRIME",À Espera de um Milagre (1999)
+https://ab21.pro/movie/231889359/528406716/285827.mp4
+#EXTINF:-1 tvg-id="" tvg-name="À Meia Noite Levarei Sua Alma (1964)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/feLS7D7rTb0BqqygSVxAmf9wThp.jpg" group-title="CLASSICOS",À Meia Noite Levarei Sua Alma (1964)
+https://ab21.pro/movie/231889359/528406716/263684.mp4
+
 
 # Séries
-#EXTINF:-1 tvg-id="Serie1" tvg-name="Breaking Bad" tvg-logo="https://exemplo.com/logo-breaking-bad.png" group-title="Séries", Breaking Bad - Temporada 1 Episódio 1
-http://exemplo.com/stream/breaking-bad-s01e01
-#EXTINF:-1 tvg-id="Serie1" tvg-name="Breaking Bad" tvg-logo="https://exemplo.com/logo-breaking-bad.png" group-title="Séries", Breaking Bad - Temporada 1 Episódio 2
-http://exemplo.com/stream/breaking-bad-s01e02
-
 #EXTINF:-1 tvg-id="" tvg-name="Abolição S01 E01" tvg-logo="https://br.web.img2.acsta.net/c_216_288/pictures/14/12/11/22/22/082732.jpg" group-title="Serie ∤ Reality E Documentário",Abolição S01 E01
 https://ab21.pro/series/231889359/528406716/153945.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Abolição S01 E02" tvg-logo="https://br.web.img2.acsta.net/c_216_288/pictures/14/12/11/22/22/082732.jpg" group-title="Serie ∤ Reality E Documentário",Abolição S01 E02
