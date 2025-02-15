@@ -19,6 +19,10 @@ http://cdnrede.com:80/movie/eduardoferreira48/7727187/252680.mp4
 #EXTINF:-1 tvg-id="" tvg-name="BLACK OPS OPERACAO SECRETA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wNPg6RIzY92miYevoIUYTFoJqBA.jpg" group-title="ACAO/AVENTURA", BLACK OPS OPERACAO SECRETA
 http://cdnrede.com:80/movie/eduardoferreira48/7727187/252681.mp4
 
+#EXTINF:10500 tvg-id="" tvg-name="O Poderoso Chefão" tvg-logo="https://exemplo.com/logo-poderoso-chefao.png" tvg-description="O Poderoso Chefão é um clássico do cinema, dirigido por Francis Ford Coppola. A história segue a família Corleone e sua ascensão no mundo do crime organizado." group-title="Filmes", O Poderoso Chefão (1972) [Adicionado em: 2023-10-01]
+http://exemplo.com/stream/poderoso-chefao
+
+
 # Séries
 #EXTINF:-1 tvg-id="" tvg-name="Abolição S01 E01" tvg-logo="https://br.web.img2.acsta.net/c_216_288/pictures/14/12/11/22/22/082732.jpg" group-title="Serie ∤ Reality E Documentário",Abolição S01 E01
 https://ab21.pro/series/231889359/528406716/153945.mp4
