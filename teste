@@ -16,3 +16,12 @@ http://exemplo.com/stream/interestelar
 http://exemplo.com/stream/breaking-bad-s01e01
 #EXTINF:-1 tvg-id="Serie1" tvg-name="Breaking Bad" tvg-logo="https://exemplo.com/logo-breaking-bad.png" group-title="Séries", Breaking Bad - Temporada 1 Episódio 2
 http://exemplo.com/stream/breaking-bad-s01e02
+
+#EXTINF:-1 tvg-id="" tvg-name="Abolição S01 E01" tvg-logo="https://br.web.img2.acsta.net/c_216_288/pictures/14/12/11/22/22/082732.jpg" group-title="Serie ∤ Reality E Documentário",Abolição S01 E01
+https://ab21.pro/series/231889359/528406716/153945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abolição S01 E02" tvg-logo="https://br.web.img2.acsta.net/c_216_288/pictures/14/12/11/22/22/082732.jpg" group-title="Serie ∤ Reality E Documentário",Abolição S01 E02
+https://ab21.pro/series/231889359/528406716/153946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abolição S01 E03" tvg-logo="https://br.web.img2.acsta.net/c_216_288/pictures/14/12/11/22/22/082732.jpg" group-title="Serie ∤ Reality E Documentário",Abolição S01 E03
+https://ab21.pro/series/231889359/528406716/153947.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abolição S01 E04" tvg-logo="https://br.web.img2.acsta.net/c_216_288/pictures/14/12/11/22/22/082732.jpg" group-title="Serie ∤ Reality E Documentário",Abolição S01 E04
+https://ab21.pro/series/231889359/528406716/153948.mp4
