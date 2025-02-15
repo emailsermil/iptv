@@ -1,22 +1,33 @@
 #EXTM3U
+#PLAYLISTV: pltv-logo="http://santiago2009.e-monsite.com/medias/images/serietv.jpg" pltv-name="Kevin Lista" pltv-description="Lista de Filmes e Séries" pltv-cover="http://assets2.ignimgs.com/2016/09/29/dcshows1280jpg-f47986_1280w.jpg" pltv-author="Kevin Tadeu" pltv-site="XXX" pltv-email="XXXX"
 
-# Canais ao Vivo
-#EXTINF:-1 tvg-id="101" tvg-name="Canal de Notícias" tvg-logo="https://example.com/news_logo.jpg" group-title="Canais ao Vivo", Canal de Notícias
-http://example.com/stream/news.m3u8
 
-#EXTINF:-1 tvg-id="102" tvg-name="Esportes 24h" tvg-logo="https://example.com/sports_logo.jpg" group-title="Canais ao Vivo", Esportes 24h
-http://example.com/stream/sports.m3u8
+########### Série ############
 
-# Filmes
-#EXTINF:-1 tvg-id="201" tvg-name="A Night of the Living Dead" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/NightoftheLivingDead.jpg" group-title="Filmes", A Night of the Living Dead
-http://media.w3.org/2010/05/sintel/trailer.mp4
+#EXTINF:-1 tvg-logo="http://dammit.com.br/wp-content/uploads/2017/04/6fdd7d69-f7cb-4d74-adb2-e7c5f7c2d039.jpg" group-title="Girlboss DUB" pltv-subgroup="TEMPORADA 01", EPISÓDIO 01
+http://s.netcine.tv/netcine-bucket/girlboss/01dub/01-BAIXO.mp4
+#EXTINF:-1 tvg-logo="http://dammit.com.br/wp-content/uploads/2017/04/6fdd7d69-f7cb-4d74-adb2-e7c5f7c2d039.jpg" group-title="Girlboss DUB" pltv-subgroup="TEMPORADA 01", EPISÓDIO 02
+http://s.netcine.tv/netcine-bucket/girlboss/01dub/02-BAIXO.mp4
+#EXTINF:-1 tvg-logo="http://dammit.com.br/wp-content/uploads/2017/04/6fdd7d69-f7cb-4d74-adb2-e7c5f7c2d039.jpg" group-title="Girlboss DUB" pltv-subgroup="TEMPORADA 01", EPISÓDIO 03
+https://1fhjloz.oloadcdn.net/dl/l/ul_2nFcBrKkSQwFt/7HZQBQ8E34Y/www.seriesonlinehd.org.Tchello.G4r074.DUB.S01E03.mp4?mime=true
 
-#EXTINF:-1 tvg-id="202" tvg-name="Sintel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Sintel_poster.jpg" group-title="Filmes", Sintel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Sintel_poster.jpg" group-title="Girlboss DUB" pltv-subgroup="TEMPORADA 01", EPISÓDIO 04
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4
 
-# Séries
-#EXTINF:-1 tvg-id="301" tvg-name="Série Exemplo - Episódio 1" tvg-logo="https://example.com/series_logo.jpg" group-title="Séries", Série Exemplo - Episódio 1
-http://example.com/stream/series_ep1.m3u8
+#EXTINF:-1 tvg-logo="http://dammit.com.br/wp-content/uploads/2017/04/6fdd7d69-f7cb-4d74-adb2-e7c5f7c2d039.jpg" group-title="Girlboss DUB" pltv-subgroup="TEMPORADA 01", EPISÓDIO 05
+https://r1---sn-bg0e7n76.googlevideo.com/videoplayback?id=48bc84e372d7ee17&itag=22&source=webdrive&requiressl=yes&ttl=transient&pl=21&sc=yes&ei=jQwdWbWHF8bRq wX-86-oDA&driveid=0B6I5K6Hvbd6vbWZrOHBFczFERmM&mime=video/mp4&lmt=149291751366 8596&ip=200.97.191.154&ipbits=32&expire=1495090381&sparams=driveid,ei,expire,id ,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pcm2cms,pl,requiressl,sc,fonte,ttl&signature=1A93761A29AAE89CA0DCCEBB25A15698187A37EB.56498E6A3F52D944FECBD5657995864E2F778A52&key=cms1&redirect_counter=1&cm2rm=sn-uxaxh5g-jo4e7r&req_id=879edf837e59a3ee&cms_redirect=yes&mm=30&mn=sn-bg0e7n76&ms=nxu&mt=1495075881&mv=m&ir=1&rr=12
+#EXTINF:-1 tvg-logo="http://dammit.com.br/wp-content/uploads/2017/04/6fdd7d69-f7cb-4d74-adb2-e7c5f7c2d039.jpg" group-title="Girlboss DUB" pltv-subgroup="TEMPORADA 01", EPISÓDIO 06
+https://r8---sn-uxaxh5g-jo4e.googlevideo.com/videoplayback?id=0b3b7bf443b3a0f8&itag=22&source=webdrive&requiressl=yes&ttl=transient&pl=21&sc=y es&ei=HwQdWfPtMMG0qgXswZiYCQ&driveid=0B6I5K6Hvbd6veDhoRFRlczZacHc&mime=video/mp4&lmt=1492920457254358&ip=200.97.191.154&ipbits=32&expire=149508 8223&sparams=driveid,ei,expire,id,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pcm2cms,pl,requiressl,sc,source,ttl&signature=11833D3585F3394667F9D951C53813324BD648F6.01F400254532B2D012CCA355EF55FB4A2B40D926&key=cms1&cms_redirect=yes&mm=31&mn=sn-uxaxh5g-jo4e&ms=au&mt=1495076004&mv=m&pcm2cms=yes
+#EXTINF:-1 tvg-logo="http://dammit.com.br/wp-content/uploads/2017/04/6fdd7d69-f7cb-4d74-adb2-e7c5f7c2d039.jpg" group-title="Girlboss DUB" pltv-subgroup="TEMPORADA 01", EPISÓDIO 07
+http://s.netcine.tv/netcine-bucket/girlboss/01dub/07-BAIXO.mp4
 
-#EXTINF:-1 tvg-id="302" tvg-name="Série Exemplo - Episódio 2" tvg-logo="https://example.com/series_logo.jpg" group-title="Séries", Série Exemplo - Episódio 2
-http://example.com/stream/series_ep2.m3u8
+#EXTINF:-1 tvg-logo="http://dammit.com.br/wp-content/uploads/2017/04/6fdd7d69-f7cb-4d74-adb2-e7c5f7c2d039.jpg" group-title="Girlboss DUB" pltv-subgroup="TEMPORADA 01", EPISÓDIO 08
+XXXX LINK STREAM DIRETO .MP4, .M3U, ETC XXXX
+#EXTINF:-1 tvg-logo="http://dammit.com.br/wp-content/uploads/2017/04/6fdd7d69-f7cb-4d74-adb2-e7c5f7c2d039.jpg" group-title="Girlboss DUB" pltv-subgroup="TEMPORADA 01", EPISÓDIO 09
+XXXX LINK STREAM DIRETO .MP4, .M3U, ETC XXXX
+#EXTINF:-1 tvg-logo="http://dammit.com.br/wp-content/uploads/2017/04/6fdd7d69-f7cb-4d74-adb2-e7c5f7c2d039.jpg" group-title="Girlboss DUB" pltv-subgroup="TEMPORADA 01", EPISÓDIO 10
+XXXX LINK STREAM DIRETO .MP4, .M3U, ETC XXXX
+#EXTINF:-1 tvg-logo="http://dammit.com.br/wp-content/uploads/2017/04/6fdd7d69-f7cb-4d74-adb2-e7c5f7c2d039.jpg" group-title="Girlboss DUB" pltv-subgroup="TEMPORADA 01", EPISÓDIO 11
+XXXX LINK STREAM DIRETO .MP4, .M3U, ETC XXXX
+#EXTINF:-1 tvg-logo="http://dammit.com.br/wp-content/uploads/2017/04/6fdd7d69-f7cb-4d74-adb2-e7c5f7c2d039.jpg" group-title="Girlboss DUB" pltv-subgroup="TEMPORADA 01", EPISÓDIO 12
+XXXX LINK STREAM DIRETO .MP4, .M3U, ETC XXXX
